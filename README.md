@@ -6,9 +6,7 @@ A simple string calculator that performs addition on a string of comma-separated
 
 ## Installation
 
-1. Clone the repository:
-    git clone https://github.com/ojhaanshu87/SimpleStringCalculator.git
-2. Navigate to the project directory:
-    cd SimpleStringCalculator
+1. Clone the repository: https://github.com/ojhaanshu87/SimpleStringCalculator.git
+2. Navigate to the project directory: SimpleStringCalculator
 3. npm install
 4. run npm test
