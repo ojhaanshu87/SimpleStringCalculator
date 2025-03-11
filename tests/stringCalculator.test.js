@@ -29,7 +29,7 @@ test("throws error on negative numbers", () => {
 });
 
 test("ignores numbers greater than 1000", () => {
-    expect(calculator.add("2,1001")).toBe(2);
+    expect(calculator.add("2,1001")).toBe(2); // added more validation on input string
 });
 
 test("supports multi-character delimiters", () => {
