@@ -1,0 +1,14 @@
+{
+    "name": "SimpleStringCalculator",
+    "version": "1.0.0",
+    "description": "A simple string calculator",
+    "main": "src/stringCalculator.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^27.0.0"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+}
